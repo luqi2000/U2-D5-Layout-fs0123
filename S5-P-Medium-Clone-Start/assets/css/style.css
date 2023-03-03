@@ -191,6 +191,11 @@ aside button{
         margin-bottom: 20px;
         margin-top: 20px;
         width: unset;
+        align-self: unset;
+        position: unset;
+        top: unset;
+        margin-right: unset;
+        padding-right: unset;
     }
     .landing h2{
         font-size:60px;
