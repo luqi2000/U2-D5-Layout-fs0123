@@ -166,6 +166,9 @@ aside button{
 }
 
 @media screen and (max-width: 480px){
+    .logo img{
+        padding-left: 10px;
+    }
     .nav-coll a{
         display: none;
     }
@@ -183,6 +186,23 @@ aside button{
         margin-bottom: 20px;
         margin-top: 20px;
         width: unset;
+    }
+    .landing h2{
+        font-size:60px;
+        margin-bottom: 30px;
+    }
+
+    .landing{
+        height: 200px;
+        padding-left: 10px;
+        border-bottom: 1px solid black;
+    }
+    .landing h2{
+        font-size:25px;
+        margin-bottom: 10px;
+    }
+    .landing p{
+        font-size: 18px;
     }
 }
 
