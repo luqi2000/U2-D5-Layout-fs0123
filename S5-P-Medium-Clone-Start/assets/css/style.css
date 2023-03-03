@@ -181,12 +181,16 @@ aside button{
     }
     .contenuto-sinistra{
         font-size: small;
-        margin-left: unset;
+        margin-left: 10px;
+    }
+    .contenuto-sinistra h1{
+        font-size: 15px;
     }
     .contenuto-destra{
         height: 10px;
-        margin-right: unset;
+        margin-right: 10px;
     }
+    
     aside{
         margin-bottom: 20px;
         margin-top: 20px;
